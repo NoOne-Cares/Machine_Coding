@@ -17,6 +17,7 @@ This repository is a collection of React-based solutions for popular **machine c
 | Component / Feature       | Description                                      |
 |---------------------------|--------------------------------------------------|
 | Pagination                | Display items with page numbers                  |
+| File Explorer             | Collapsible file explorer                        |
 
 ---
 
