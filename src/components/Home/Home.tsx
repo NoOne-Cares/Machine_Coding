@@ -28,6 +28,14 @@ const Home = () => {
                                 <Link to='/file'>FileExplorer</Link>
                             </td>
                         </tr>
+                        <tr>
+                            <td className="border border-black-300 px-4 py-2">
+                                Auto Complete Search Bar
+                            </td>
+                            <td className="border border-black-300 px-4 py-2">
+                                <Link to='/search'>Search</Link>
+                            </td>
+                        </tr>
                     </tbody>
                 </table>
             </div>
