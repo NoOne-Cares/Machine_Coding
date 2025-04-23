@@ -19,6 +19,7 @@ This repository is a collection of React-based solutions for popular **machine c
 | Pagination                | Display items with page numbers                  |
 | File Explorer             | Collapsible file explorer                        |
 | Search Bar                | Auto Complete search bar                         |
+|Modal                      |Pop up Modal                                      |
 
 ---
 
