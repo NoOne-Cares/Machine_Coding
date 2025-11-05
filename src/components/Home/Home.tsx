@@ -36,6 +36,30 @@ const Home = () => {
                                 <Link to='/search'>Search</Link>
                             </td>
                         </tr>
+                        <tr>
+                            <td className="border border-black-300 px-4 py-2">
+                                Modal
+                            </td>
+                            <td className="border border-black-300 px-4 py-2">
+                                <Link to='/modal'>Pop up modal</Link>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td className="border border-black-300 px-4 py-2">
+                                TextAnimation
+                            </td>
+                            <td className="border border-black-300 px-4 py-2">
+                                <Link to='/textanimate'>Text Animate</Link>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td className="border border-black-300 px-4 py-2">
+                                Fun
+                            </td>
+                            <td className="border border-black-300 px-4 py-2">
+                                <Link to='/fun'>Fun</Link>
+                            </td>
+                        </tr>
                     </tbody>
                 </table>
             </div>
