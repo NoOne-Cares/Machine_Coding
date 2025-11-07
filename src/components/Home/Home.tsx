@@ -54,10 +54,10 @@ const Home = () => {
                         </tr>
                         <tr>
                             <td className="border border-black-300 px-4 py-2">
-                                Fun
+                                Accordian
                             </td>
                             <td className="border border-black-300 px-4 py-2">
-                                <Link to='/fun'>Fun</Link>
+                                <Link to='/accordian'>accordian</Link>
                             </td>
                         </tr>
                     </tbody>
