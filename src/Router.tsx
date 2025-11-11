@@ -6,6 +6,8 @@ import Search from "./components/AutoComplteSeacrhBar/Search";
 import Modal from "./components/Modal/Modal";
 import TextAnimate from "./components/textAnimation/TextAnimate";
 import Accordian from "./components/Accordian/Accordian";
+import ScreenCapture from "./components/Shot/ScreenShot";
+import Landing from "./components/LandingPages/One_Landing";
 
 const Router = () => {
     return (
@@ -17,6 +19,8 @@ const Router = () => {
             <Route path="/modal" element={<Modal />} />
             <Route path="/textanimate" element={<TextAnimate />} />
             <Route path="/accordian" element={<Accordian />} />
+            <Route path="/shot" element={<ScreenCapture />} />
+            <Route path="/landing" element={<Landing />} />
         </Routes>
     );
 };
